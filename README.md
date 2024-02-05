@@ -8,7 +8,8 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=JS-logo">
  <br>
  <br>
- <h3>Confira a aplicação </">Aqui!</a>
+ <h3>Confira a aplicação <a href="https://jeanspereira.github.io/DevSorteio/">>Aqui!</a>
  <br>
  <br>
+ <img src="Assets/jeanspereira - Google Chrome 02_02_2024 23_16_29.png">
  
