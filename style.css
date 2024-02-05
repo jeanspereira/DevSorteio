@@ -64,3 +64,56 @@ button:hover{
 button:active{
     opacity: 0,8;
 }
+@media only screen and (max-width: 768px) {
+    header {
+      margin: 20px 0 60px 20px;
+    }
+  
+    .link-header {
+      font-size: 18px;
+      margin-right: 10px;
+    }
+  
+    .button-header {
+      width: 100px;
+      height: 32px;
+      font-size: 18px;
+    }
+  
+    .img-logo {
+      width: 100%;
+      height: auto;
+      margin-left: 0;
+      display: block;
+    }
+  
+    section {
+      display: block;
+      margin-left: 20px;
+    }
+  
+    h1 {
+      font-size: 48px;
+      line-height: 58px;
+    }
+  
+    h2 {
+      font-size: 36px;
+      line-height: 44px;
+    }
+  
+    p {
+      font-size: 18px;
+      line-height: 22px;
+      width: 100%;
+      margin-top: 20px;
+      margin-bottom: 40px;
+    }
+  
+    .button-explore {
+      width: 160px;
+      height: 48px;
+      font-size: 20px;
+      line-height: 24px;
+    }
+  }
